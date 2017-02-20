@@ -76,7 +76,7 @@ var obj = {
    "a" : 5,
    "b" : "hello"
 }
-
+```
 You can create an object in the 'body' section of the postman request. Be sure to set the datatype to 'application/json'
 
 Once you've created a request in postman, try sending it to the server. Log req.body in your post route to see that express is receiving the JSON object that you are sending. Combine it with the function that you wrote at the beginning of this step.
@@ -93,7 +93,7 @@ Try this out. Add some questions, and check to see that they have been added to 
 
 Could the UX be improved? Try using javascript to redirect back to the index after the user submits a new question successfully.
 
-
+##7. 
 
 
 ##Copyright
