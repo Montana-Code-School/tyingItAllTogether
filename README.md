@@ -93,8 +93,19 @@ Try this out. Add some questions, and check to see that they have been added to 
 
 Could the UX be improved? Try using javascript to redirect back to the index after the user submits a new question successfully.
 
-##7. 
+##7. Vote up questions
 
+Let's let users vote for questions that are the most helpful. Let's create a put method that takes an id and increments the vote total for that question by one.
+
+Then let's put an image or a button next to each question that the user can click on to vote for a question.
+
+Use javascript's sorting method, so that the questions are ordered by which questions have the most votes.
+
+##8. Database
+Install Mongodb (see me)
+Go through this tutorial 
+https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications
+See if you can use it to replace your internal data structure with a real live database.
 
 ##Copyright
 
