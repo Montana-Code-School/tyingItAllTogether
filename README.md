@@ -107,6 +107,18 @@ Go through this tutorial
 https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications
 See if you can use it to replace your internal data structure with a real live database.
 
+##9. Users and authentication
+Right now, anyone can vote any number of times. Let's see if we can limit votes to one per user account.
+
+Follow this tutorial. See if you can incorporate authentication into your app
+
+https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens
+
+Now, you'll have to keep track of which users have voted and disallow voting twice.
+
+##10. Woooooo!
+You've just created your first full stack web app complete with database and authentication!
+
 ##Copyright
 
 (c) Montana Code School, 2017.
